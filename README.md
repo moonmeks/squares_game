@@ -189,6 +189,6 @@ http://localhost:3000
     - Выбор хода ближе к центру поля
 
 ### Технологии
-Backend: Node.js, Express.js
-Frontend: JavaScript, HTML5, CSS3
-Архитектура: Модульная структура с разделением движка и интерфейсов
+- Backend: Node.js, Express.js
+- Frontend: JavaScript, HTML5, CSS3
+- Архитектура: Модульная структура с разделением движка и интерфейсов
